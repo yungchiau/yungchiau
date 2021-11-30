@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yungchiau, Eugenia aka 大眼球.
-- 👀 I’m interested in gardening, handmade, skating 
+- 👀 I’m interested in gardening, handmade, skating and hiking
 - 🌱 I’m currently learning python, cloud, and node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

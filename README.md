@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yungchiau, Eugenia aka 大眼球.
+- 👋 Hi, I’m @yungchiau, Kayla aka 大眼球.
 - 👀 I’m interested in gardening, handmade, skating and hiking
 - 🌱 I’m currently learning Python, GCP, and node.js
 

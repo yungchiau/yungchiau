@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yungchiau, Kayla aka 大眼球.
 - 👀 I’m interested in gardening, handmade, skating and hiking
-- 🌱 I’m familar with Python, node.js and GCP
+- 🌱 I’m familiar with Python, node.js and GCP
 - ⬅️ my Leetcode page https://leetcode.com/yungchiau/
 
 <!---
